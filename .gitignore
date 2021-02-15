@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .DS_Store
+full_combined_datasets/
+fastas/
+
